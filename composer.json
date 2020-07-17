@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/file-manager",
+    "name": "laradvance/admin-file-manager",
     "description": "file manager for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/file-manager",
+    "homepage": "https://github.com/laradvance/admin-file-manager",
     "license": "MIT",
     "authors": [
         {
